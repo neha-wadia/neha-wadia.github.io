@@ -9,4 +9,4 @@ I am grateful to be supported by a Google PhD Fellowship.
 Before I came to Berkeley, I was a Junior Research Fellow at the National Center for Biological Sciences in Bangalore, India. Before that, I completed a Masters degree in theoretical physics at the Perimeter Institute for Theoretical Physics in Waterloo, Canada. I was an undergraduate at Amherst College, where I received a degree in physics.
 
 You can find me at neha.wadia _at_ berkeley _dot_ edu.\
-Here is my [Google Scholar] (https://scholar.google.com/citations?hl=en&user=5qC5g3MAAAAJ) page.
+Here is my [Google Scholar](https://scholar.google.com/citations?hl=en&user=5qC5g3MAAAAJ) page.
