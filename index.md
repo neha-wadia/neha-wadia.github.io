@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Neha S. Wadia
 
-You can use the [editor on GitHub](https://github.com/neha-wadia/neha-wadia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a sixth year PhD student in the Biophysics Graduate Group at UC Berkeley. My advisors are Michael I. Jordan and Michael R. DeWeese. I am affiliated with the Statistical AI Learning group. I am interested in theoretical machine learning and in the interface of computer science and statistics with physics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the summer of 2019 I interned at Google Brain, where I was hosted by Jascha Sohl-Dickstein.
 
-### Markdown
+I am grateful to be supported by a Google PhD Fellowship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before I came to Berkeley, I was a Junior Research Fellow at the National Center for Biological Sciences in Bangalore, India. Before that, I completed a Masters degree in theoretical physics at the Perimeter Institute for Theoretical Physics in Waterloo, Canada. I was an undergraduate at Amherst College, where I received a degree in physics.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neha-wadia/neha-wadia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can find me at neha.wadia _at_ berkeley _dot_ edu.\
+Here is my [Google Scholar] (https://scholar.google.com/citations?hl=en&user=5qC5g3MAAAAJ) page.
