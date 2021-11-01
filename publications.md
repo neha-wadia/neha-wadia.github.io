@@ -4,6 +4,7 @@ permalink: /publications/
 
 [Home](/index.md) &nbsp; &nbsp; [Publications](/publications.md)
 
+### Papers:
 
 Neha Wadia, Daniel Duckworth, Sam Schoenholz, Ethan Dyer, Jascha Sohl-Dickstein\
 **Whitening and Second Order Optimization Both Make Information in the Dataset Unusable During Training, and Can Reduce or Prevent Generalization**\
@@ -18,21 +19,21 @@ Eric B. Norrgard, Eustace R. Edwards, Daniel J. McCarron, Matthew H. Steinecker,
 *Physical Review A,* 2017. [link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.062506)
 
 
-### Workshop proceedings:\
+### Workshop proceedings:
 
 Neha Wadia, Michael I. Jordan, Michael Muehlebach\
 **Optimization with Adaptive Step Size Selection from a Dynamical Systems Perspective**\
 *NeurIPS Workshop on Optimization for Machine Learning,* 2021. To appear.
 
 
-### Under review:\
+### Under review:
 
 Neha Wadia, Ryan Zarcone, Michael R. DeWeese\
 **A Solution to the Fokker-Planck Equation for Slowly Driven Brownian Motion: Emergent Geometry and a Formula for the Corresponding Thermodynamic Metric**
 In review at Physical Review E.
 
 
-### Preprint:\
+### Preprints:
 Charles Frye, Neha Wadia, Michael R DeWeese, Kristofer Bouchard\
 **Numerically Recovering the Critical Points of a Deep Linear Autoencoder**\
 *arXiv preprint,* 2019. [arxiv](https://arxiv.org/abs/1901.10603)
