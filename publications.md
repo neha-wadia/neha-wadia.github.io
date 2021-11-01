@@ -1,7 +1,3 @@
-layout: page
-title: "Publications"
-permalink: /publications/
-
 [Home](/index.md) &nbsp; &nbsp; [Publications](/publications.md)
 
 ### Papers:
@@ -14,9 +10,9 @@ Charles Frye, Jamie Simon, Neha Wadia, Andrew Ligeralde, Michael R DeWeese, Kris
 **Critical Point-Finding Methods Reveal Gradient-Flat Regions of Deep Network Losses**\
 *Neural Computation,* 2021. [link](https://direct.mit.edu/neco/article/33/6/1469/100574)
 
-Eric B. Norrgard, Eustace R. Edwards, Daniel J. McCarron, Matthew H. Steinecker, David DeMille, Shah Saad Alam, Stephen K. Peck, Neha S. Wadia, Larry R. Hunter\
+Eric B Norrgard, Eustace R Edwards, Daniel J McCarron, Matthew H Steinecker, David DeMille, Shah Saad Alam, Stephen K Peck, Neha S Wadia, Larry R. Hunter\
 **Hyperfine structure of the 
-<img src="https://render.githubusercontent.com/render/math?math=B^3\Pi_1"> state and predictions of optical cycling behavior in the <img src="https://render.githubusercontent.com/render/math?math=X\rightarrow B"> transition of TlF**\
+$B^3\Pi_1$ state and predictions of optical cycling behavior in the $X\rightarrow B$ transition of TlF**\
 *Physical Review A,* 2017. [link](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.062506)
 
 
