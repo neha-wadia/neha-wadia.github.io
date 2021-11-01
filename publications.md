@@ -24,7 +24,7 @@ Eric B. Norrgard, Eustace R. Edwards, Daniel J. McCarron, Matthew H. Steinecker,
 
 Neha Wadia, Michael I. Jordan, Michael Muehlebach\
 **Optimization with Adaptive Step Size Selection from a Dynamical Systems Perspective**\
-*NeurIPS Workshop on Optimization for Machine Learning,* 2021. To appear.
+*NeurIPS Workshop on [Optimization for Machine Learning](https://opt-ml.org/index.html),* 2021. To appear.
 
 
 ### Under review:
