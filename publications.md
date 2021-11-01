@@ -4,7 +4,7 @@
 
 Neha S. Wadia, Daniel Duckworth, Sam Schoenholz, Ethan Dyer, Jascha Sohl-Dickstein\
 **Whitening and Second Order Optimization Both Make Information in the Dataset Unusable During Training, and Can Reduce or Prevent Generalization**\
-*Proceedings of the 27th International Conference on Machine Learning (ICML),* 2021. [arxiv](https://arxiv.org/abs/2008.07545)
+*Proceedings of the 27th International Conference on Machine Learning (ICML),* 2021. [link](https://proceedings.mlr.press/v139/wadia21a.html)
 
 Charles Frye, Jamie Simon, Neha S. Wadia, Andrew Ligeralde, Michael R. DeWeese, Kristofer Bouchard\
 **Critical Point-Finding Methods Reveal Gradient-Flat Regions of Deep Network Losses**\
