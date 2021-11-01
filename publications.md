@@ -1,4 +1,7 @@
-## Publications
+layout: page
+title: "Publications"
+permalink: /publications/
+
 
 Neha Wadia, Daniel Duckworth, Sam Schoenholz, Ethan Dyer, Jascha Sohl-Dickstein
 **Whitening and Second Order Optimization Both Make Information in the Dataset Unusable During Training, and Can Reduce or Prevent Generalization**
