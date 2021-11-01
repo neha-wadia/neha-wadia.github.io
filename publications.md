@@ -30,8 +30,8 @@ Neha Wadia, Michael I. Jordan, Michael Muehlebach\
 ### Under review:
 
 Neha Wadia, Ryan Zarcone, Michael R. DeWeese\
-**A Solution to the Fokker-Planck Equation for Slowly Driven Brownian Motion: Emergent Geometry and a Formula for the Corresponding Thermodynamic Metric**
-In review at Physical Review E.
+**A Solution to the Fokker-Planck Equation for Slowly Driven Brownian Motion: Emergent Geometry and a Formula for the Corresponding Thermodynamic Metric**\
+In review at Physical Review E. [arxiv](https://arxiv.org/abs/2008.00122)
 
 
 ### Preprints:
