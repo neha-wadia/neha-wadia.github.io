@@ -1,4 +1,4 @@
-[Home](/index.md) &nbsp; [Publications](/publications.md)
+[Home](/index.md) &nbsp; &nbsp; [Publications](/publications.md)
 
 I am a sixth year PhD student in the Biophysics Graduate Group at UC Berkeley. My advisors are Michael I. Jordan and Michael R. DeWeese. I am affiliated with the Statistical AI Learning group. I am interested in theoretical machine learning and in the interface of computer science and statistics with physics.
 
