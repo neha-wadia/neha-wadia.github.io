@@ -1,7 +1,7 @@
 [Home](/index.md) &nbsp; &nbsp; [Research](/research.md)
 
 I am a final year PhD student at the University of California, Berkeley.
-I am broadly interested in theoretical machine learning. My current focus is in optimization, where I am mainly working from the perspective of continuous-time. Active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimizers with well-defined continuous-time (ODE) representations, and examining the effect of overparameterization on the dynamics of stochastic gradient descent in matrix factorization problems.
+I am broadly interested in theoretical machine learning. My current focus is in optimization, where I am mainly working from the perspective of continuous time. Active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimizers with well-defined continuous-time (ODE) representations, and examining the effect of overparameterization on the dynamics of stochastic gradient descent in matrix factorization problems.
 Some of my other interests are the statistical mechanics of small systems out of equilibrium, and the three-way interface of computer science, statistics, and statistical mechanics.
 
 My advisors are [Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/) and [Michael R. DeWeese](https://deweeselab.com/).
