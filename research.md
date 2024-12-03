@@ -2,6 +2,10 @@
 
 ### Papers:
 
+Neha S. Wadia, Yatin Dandi, Michael I. Jordan\
+**A Gentle Introduction to Gradient-Based Optimization and Variational Inequalities for Machine Learning**\
+*J. Stat. Mech.,* 2024. [journal](https://iopscience.iop.org/article/10.1088/1742-5468/ad3194)   [arxiv](https://arxiv.org/abs/2309.04877)
+
 Neha S. Wadia, Ryan Zarcone, Michael R. DeWeese\
 **A Solution to the Fokker-Planck Equation for Slowly Driven Brownian Motion: Emergent Geometry and a Formula for the Corresponding Thermodynamic Metric**\
 *Physical Review E,* 2022. [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.034130)   [arxiv](https://arxiv.org/abs/2008.00122)
@@ -24,13 +28,6 @@ Eric B. Norrgard, Eustace R. Edwards, Daniel J. McCarron, Matthew H. Steinecker,
 Neha S. Wadia, Michael I. Jordan, Michael Muehlebach\
 **Optimization with Adaptive Step Size Selection from a Dynamical Systems Perspective**\
 *NeurIPS Workshop on Optimization for Machine Learning (OptML),* 2021. [link](https://opt-ml.org/papers/2021/paper28.pdf)
-
-
-### Under review:
-
-Neha S. Wadia, Yatin Dandi, Michael I. Jordan\
-**A Gentle Introduction to Gradient-Based Optimization and Variational Inequalities for Machine Learning**\
-In review at J. Stat. Mech. (JSTAT). [arxiv](https://arxiv.org/abs/2309.04877)
 
 
 ### Preprints:
