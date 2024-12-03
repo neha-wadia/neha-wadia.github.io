@@ -1,6 +1,6 @@
 [Home](/index.md) &nbsp; &nbsp; [Research](/research.md)
 
-I am a postdoctoral fellow at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute. I am broadly interested in the theory of machine learning. Active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimization, and studying the statistical efficiency of score estimation in the context of score-based diffusion modeling.
+I am a postdoctoral fellow at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute. I am broadly interested in the theory of machine learning. I work mainly on problems in optimization, sampling, and inference. Active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimization, and proving a mixing time bound for Gibbs sampling from log-concave distributions.
 
 I graduated with a PhD from the University of California, Berkeley in May of 2022. My advisors were [Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/) and [Michael R. DeWeese](https://deweeselab.com/).
 I was also affiliated with the Statistical AI Learning group, the [Berkeley AI Research](https://bair.berkeley.edu/) group, and the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu).
