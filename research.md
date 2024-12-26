@@ -1,6 +1,6 @@
 [Home](/index.md) &nbsp; &nbsp; [Research](/research.md)
 
-### Papers:
+### Journal papers:
 
 Neha S. Wadia, Yatin Dandi, Michael I. Jordan\
 **A Gentle Introduction to Gradient-Based Optimization and Variational Inequalities for Machine Learning**\
@@ -31,16 +31,19 @@ Neha S. Wadia, Michael I. Jordan, Michael Muehlebach\
 
 
 ### Preprints:
+Neha S. Wadia\
+**A mixing time bound for Gibbs sampling from log-smooth log-concave distributions**\
+*arXiv preprint,* 2024. [arxiv](https://arxiv.org/abs/2412.17899)
+
 Charles Frye, Neha S. Wadia, Michael R. DeWeese, Kristofer Bouchard\
 **Numerically Recovering the Critical Points of a Deep Linear Autoencoder**\
 *arXiv preprint,* 2019. [arxiv](https://arxiv.org/abs/1901.10603)
 
 
-### Talks
+### Recorded Talks
 **Slowly Driven Brownian Motion: Emergent Geometry and the Thermodynamic Metric**
 - [Information Engines at the Frontiers of Nanoscale Thermodynamics](https://www.telluridescience.org/meetings/workshop-details?wid=918) Workshop, July 2021. [video](https://vimeo.com/580441102)
 
 **The Impact of Whitening and Second-Order Optimization on Generalization**
 - ICML, 2021. [video](https://slideslive.com/38958841/whitening-and-second-order-optimization-both-make-information-in-the-dataset-unusable-during-training-and-can-reduce-or-prevent-generalization?ref=speaker-82809-latest)
-- Michael Mahoney's group, UC Berkeley, 2020.
 - BayLearn 2020. [video](https://www.youtube.com/watch?v=GgZ5BEC26Ng)
