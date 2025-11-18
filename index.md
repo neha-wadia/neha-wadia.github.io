@@ -1,10 +1,10 @@
 [Home](/index.md) &nbsp; &nbsp; [Research](/research.md)
 
 I am a postdoctoral fellow at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute.
-I work in machine learning and the theory of computing.
+I work in machine learning and on the theory of computing.
 My long-term motivation is to help build mathematics to understand scientific phenomena such as (biological) visual processing and biomolecular energetics.
 I focus on optimization and sampling algorithms: optimization is how we train neural networks to perform tasks that other estimators often cannot, and many of the scientific problems I am interested in either are or can be usefully formulated as sampling problems.
-I am also interested in direct applications in physics and neuroscience in the short term.
+I am also interested in direct applications in physics and neuroscience.
 I am always delighted to have an excuse to think about probability in high dimensions.
 
 Currently active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimization, and studying the mixing time of the Gibbs sampler on log-concave distributions. I have a new [preprint](https://arxiv.org/abs/2412.17899) out on the latter.
