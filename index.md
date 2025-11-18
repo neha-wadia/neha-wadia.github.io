@@ -1,6 +1,13 @@
 [Home](/index.md) &nbsp; &nbsp; [Research](/research.md)
 
-I am a postdoctoral fellow at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute. I am broadly interested in the theory of machine learning. I work mainly on problems in optimization, sampling, and inference. Active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimization, and studying the mixing time of the Gibbs sampler on log-concave distributions. I have a new [preprint](https://arxiv.org/abs/2412.17899) out on the latter.
+I am a postdoctoral fellow at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute.
+I work in machine learning and the theory of computing.
+My long-term motivation is to help build mathematics to understand scientific phenomena such as (biological) visual processing and biomolecular energetics.
+I focus on optimization and sampling algorithms: optimization is how we train neural networks to perform tasks that other estimators often cannot, and many of the scientific problems I am interested in either are or can be usefully formulated as sampling problems.
+I am also interested in direct applications in physics and neuroscience in the short term.
+I am always delighted to have an excuse to think about probability in high dimensions.
+
+Currently active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimization, and studying the mixing time of the Gibbs sampler on log-concave distributions. I have a new [preprint](https://arxiv.org/abs/2412.17899) out on the latter.
 
 I graduated with a PhD from the University of California, Berkeley in May of 2022. My advisors were [Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/) and [Michael R. DeWeese](https://deweeselab.com/).
 I was also affiliated with the Statistical AI Learning group, the [Berkeley AI Research](https://bair.berkeley.edu/) group, and the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu).
@@ -12,4 +19,4 @@ Before I went to Berkeley, I was a Junior Research Fellow at the National Center
 You can find me at nwadia _at_ flatironinstitute _dot_ org.\
 Here is my [Google Scholar](https://scholar.google.com/citations?hl=en&user=5qC5g3MAAAAJ) page.
 
-Machine learning at the Flatiron Institute has its own webpage [here](https://www.simonsfoundation.org/machine-learning-at-the-flatiron-institute/).
+I am on the academic job market this fall.
