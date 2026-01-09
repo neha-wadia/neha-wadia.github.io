@@ -1,6 +1,6 @@
 [Home](/index.md) &nbsp; &nbsp; [Research](/research.md)
 
-I am a postdoctoral fellow at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute.
+I am an associate research scientist at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute.
 I work in machine learning and on the theory of computing.
 My long-term motivation is to help build mathematics to understand scientific phenomena such as (biological) visual processing and biomolecular energetics.
 I focus on optimization and sampling algorithms: optimization is how we train neural networks to perform tasks that other estimators often cannot, and many of the scientific problems I am interested in either are or can be usefully formulated as sampling problems.
@@ -11,6 +11,7 @@ Currently active projects include using ideas from numerical integration to deve
 
 I graduated with a PhD from the University of California, Berkeley in May of 2022. My advisors were [Michael I. Jordan](http://people.eecs.berkeley.edu/~jordan/) and [Michael R. DeWeese](https://deweeselab.com/).
 I was also affiliated with the Statistical AI Learning group, the [Berkeley AI Research](https://bair.berkeley.edu/) group, and the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu).
+Prior to my current appointment, I held a postdoctoral fellowship at the Flatiron Institute.
 
 In the summer of 2019 I interned at Google Brain, where I was hosted by [Jascha Sohl-Dickstein](http://www.sohldickstein.com/). During the academic years 2018-21, my work was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
 
