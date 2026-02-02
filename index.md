@@ -2,7 +2,7 @@
 
 I am an associate research scientist at the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/) of the Flatiron Institute.
 I work in machine learning and on the theory of computing, with a focus on optimization and sampling algorithms, and in statistical mechanics.
-Much of my work is motivated by problems in physics, biophysics, and the neuroscience of vision.
+Most of my work is motivated by problems in physics, biophysics, and the neuroscience of vision.
 I also enjoy thinking about probability in high dimensions.
 
 Currently active projects include using ideas from numerical integration to develop computationally efficient adaptive step size schemes for optimization, and studying the mixing time of the Gibbs sampler on log-concave distributions. I have a new [preprint](https://arxiv.org/abs/2412.17899) out on the latter.
